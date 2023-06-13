@@ -1,0 +1,16 @@
+e841514f0c220031c8ea3b5748a882c9 *DESCRIPTION
+e42e73e0e7ab42bae57926a8bee6630d *NAMESPACE
+fbad496d8bab6699d98ec514c5f02cdd *R/path_gps.R
+c756f5c94c8915d76a1cfcff277dcb48 *R/point_to_line.R
+f911078b3e748bf17e6c09e143e82c8e *inst/extdata/df_gps.csv
+ae3b3df9970b49b6523e608759bc957d *inst/extdata/trajeto.cpg
+d95ffa42e814c09fdb74cb8a2f42d9c3 *inst/extdata/trajeto.dbf
+c742bee3d4edfc2948a2ad08de1790a5 *inst/extdata/trajeto.prj
+f0455a7ee5c3b837fef150f52b9910ae *inst/extdata/trajeto.shp
+16286ab02120f23412bcd846ccb158ff *inst/extdata/trajeto.shx
+0706ef71ec9351486292e0509338ab4c *inst/extdata/trajeto_teste.dbf
+c742bee3d4edfc2948a2ad08de1790a5 *inst/extdata/trajeto_teste.prj
+20821f23f3e4b108e458c70ca3370ab2 *inst/extdata/trajeto_teste.shp
+3e85df56c68c59c9095b98af3377c438 *inst/extdata/trajeto_teste.shx
+48a51904ec77876a32e38afddf0d131e *man/path_gps.Rd
+50dff787bb011f84862481c97c4b5fe7 *man/point_to_line.Rd
